@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Practica3-kotlin</string>
+    <string name="usuario">Max</string>
+    <string name="contraseña">1234</string>
+</resources>
